@@ -1,0 +1,2 @@
+# hexoBlogs
+mynew bolg
